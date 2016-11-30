@@ -1,6 +1,13 @@
 # CS5785 Homeworks
 Programming and written homeworks for CS5785-Applied Machine Learning at Cornell Tech. Only Python notebooks and written reports are included.
 
+#### update 11/28/2016
+Uploaded hw4
+* hw4: 
+    * Neural Network for image regression using ConvNetJS;
+    * Random Forest for image approximation.
+
+
 #### update 11/15/2016
 Uploaded hw3
 * hw3: 
