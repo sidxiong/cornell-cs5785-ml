@@ -1,6 +1,9 @@
 # CS5785 Homeworks
 Programming and written homeworks for CS5785-Applied Machine Learning at Cornell Tech. Only Python notebooks and written reports are included.
 
+#### update 12/7/2016
+Uploaded final project's paper.
+
 #### update 11/28/2016
 Uploaded hw4
 * hw4: 
